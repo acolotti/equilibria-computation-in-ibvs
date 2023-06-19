@@ -2,7 +2,7 @@
 
 ## Systems of equations
 
-In this folder, you can find the systems corresponding to each test case presented in Section IV, as well as the symmetry-invariant change of variables presented in Section III-B.
+In this folder, you can find the systems corresponding to each test case presented in Section IV, as well as the symmetry-invariant change of variables presented in Section III-B (for the 4 points case only).
 
 ## Numerical solutions
 
