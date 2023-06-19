@@ -1,0 +1,8 @@
+Perfect approximation test cases, Case 2a
+
+"Pos." denotes the camera position in world-frame, "Rot." the camera orientation in world-frame, using angle-axis representation.
+
+Minimum: Pos. [-0.114, -0.242, -0.968], Rot. [-0.2, 0.2, 1.4]
+Minimum: Pos. [0.269, 0.227, -0.96], Rot. [-0.075, -0.444, 1.342]
+Saddle: Pos. [0.103, -0.07, 1.942], Rot. [0.42, 3.088, 0.311]
+Saddle: Pos. [0.16, 0.03, -1.019], Rot. [-0.164, -0.213, 1.366]
