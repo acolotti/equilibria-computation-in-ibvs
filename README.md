@@ -12,7 +12,7 @@ Once `msolve` is installed, it's possible to solve a system by launching the fol
 ```console
 ./msolve -f Case_XY.sys -o Case_XY.sols
 ```
-The `msolve` executable is located in the `/msolve_installation/binary` folder.
+The solutions will be saved in the `Case_XY.sols` file. The `msolve` executable is located in the `/msolve_installation/binary` folder.
 
 ## Numerical solutions
 
