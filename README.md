@@ -6,7 +6,7 @@ In this folder, you can find the systems corresponding to each test case present
 
 In each file, the first line denotes the system's variables, the second line is the characteristic of the field over which the computations are performed, and the subsequent lines represent the actual system of equations.
 
-These systems are meant to be solved with `msolve` [https://msolve.lip6.fr], which is an open-source, high-performance library for computing the real roots of zero-dimensional polynomial systems that relies on Gröbner bases algorithms.
+These systems are meant to be solved with `msolve` (https://msolve.lip6.fr), which is an open-source, high-performance library for computing the real roots of zero-dimensional polynomial systems that relies on Gröbner bases algorithms.
 
 Once `msolve` is installed, it's possible to solve a system by launching the following command:
 ```console
