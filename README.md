@@ -1,4 +1,4 @@
-# Systems of equations and numerical results for the article "Determination of All Stable and Unstable Equilibria for Image Points-Based Visual Servoing", submitted to IEEE T-RO
+# Systems of equations and numerical results for the article "Determination of All Stable and Unstable Equilibria for Image-Point-Based Visual Servoing", submitted to IEEE T-RO
 
 ## Systems of equations
 
