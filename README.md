@@ -1,4 +1,4 @@
-# Systems of equations and numerical results for the article "Determination of All Stable and Unstable Equilibria for Image-Point-Based Visual Servoing", submitted to IEEE T-RO
+# Systems of equations and numerical results for [Colotti et al., "Determination of All Stable and Unstable Equilibria for Image-Point-Based Visual Servoing", IEEE Transactions on Robotics](https://hal.science/hal-04628273v1)
 
 ## Systems of equations
 
